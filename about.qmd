@@ -2,8 +2,12 @@
 title: "About"
 ---
 
-About this site
+Post-growth Futures collective is a grassroots organization where, through mutual aid, community organizing and art, we imagine a better future, or futures:
 
-```{r}
-1 + 1
-```
+  - A future where we have enough for everyone
+  - A future where we don't need to fight for resources
+  - A future where capital accumulation is not encouraged
+  - A future where we share the gifts of nature and take care of the planet.
+  
+----
+

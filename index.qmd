@@ -2,6 +2,7 @@
 title: "Postgrowth futures collective"
 ---
 
+<!---
 Through mutual aid, community organizing, and art, we re-imagine the future, or futures ...
 
 A future where we have enough
@@ -15,3 +16,5 @@ A future where we share the gifts of nature and take care of the planet.
 What happens when growth is not enough? What comes after?
 
 Redistribution. There is enough for everyone.
+
+--->
