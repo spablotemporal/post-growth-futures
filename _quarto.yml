@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "postgrowth-futures"
+  title: "Postgrowth Futures"
   navbar:
     left:
       - href: index.qmd

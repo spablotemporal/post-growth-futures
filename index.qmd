@@ -1,6 +1,9 @@
 ---
-title: "Postgrowth futures collective"
+title: ""
 ---
+
+![](img/logo.png){style="fig-align=center"}
+
 
 <!---
 Through mutual aid, community organizing, and art, we re-imagine the future, or futures ...
