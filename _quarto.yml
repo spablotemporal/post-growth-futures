@@ -11,6 +11,7 @@ website:
       - about.qmd
       - text: "Events"
         menu:
+        - cost-of-growth.qmd
         - malma-makua-screening.qmd
 
 format:
