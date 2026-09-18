@@ -6,3 +6,4 @@
 /.quarto/
 misc/
 postgrowth-futures.Rproj
+.DS_Store

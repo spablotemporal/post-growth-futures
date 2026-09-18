@@ -9,6 +9,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - text: "Events"
+        menu:
+        - malma-makua-screening.qmd
 
 format:
   html:
