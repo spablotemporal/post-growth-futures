@@ -1,3 +1,11 @@
 ---
 title: "Mālma Mākua Screening"
 ---
+
+# Event description
+
+![](img/events/malmamakua/mm-flyer.png){style="fig-align:center"}
+
+# Trailer
+
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/1224205279?h=ae5d0a7096" width="640" height="360" frameborder="0" referrerpolicy="strict-origin-when-cross-origin" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"   allowfullscreen></iframe>
