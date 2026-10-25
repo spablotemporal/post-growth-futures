@@ -9,10 +9,13 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+      - text: "Projects"
+        menu:
+        - postgrowth-futurism.qmd
       - text: "Events"
         menu:
         - cost-of-growth.qmd
-        - malma-makua-screening.qmd
+        - malama-makua-screening.qmd
 
 format:
   html:
